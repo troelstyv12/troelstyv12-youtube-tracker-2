@@ -1,0 +1,6 @@
+{
+  "name": "Dansk YouTube Tracker",
+  "description": "Moderne mørk webapplikation til sporing af danske YouTubere med favoritter, rangering og dybdegående statistik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
